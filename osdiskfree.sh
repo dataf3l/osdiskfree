@@ -10,7 +10,7 @@ scale=3
 $all/$used
 
 EOF
-
+printf '%'
 echo "Available   : `df -H | grep disk1| awk '{print $4}'`"
 echo "Total Disk  : `df -H | grep disk1| awk '{print $2}'`"
 
