@@ -10,3 +10,5 @@ and eliminate easily the *folders* inside a file that
 take too much space.
 
 feel free to copy or modify.
+
+TODO: add fish support
